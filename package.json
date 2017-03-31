@@ -1,0 +1,30 @@
+{
+  "name": "bfly",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": null,
+  "private": false,
+  "main": "main.js",
+  "dependencies": {
+    "@exponent/ex-navigation": "^2.1.2",
+    "@exponent/vector-icons": "~2.0.3",
+    "babel-eslint": "^7.1.1",
+    "exponent": "~12.0.0",
+    "react": "~15.3.2",
+    "react-native": "git+https://github.com/exponentjs/react-native#sdk-12.0.0",
+    "react-native-infinite-scroll-view": "^0.4.2",
+    "react-native-modalbox": "^1.3.8",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.7.4",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1"
+  }
+}

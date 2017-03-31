@@ -1,0 +1,19 @@
+{
+  "name": "FoodFeed",
+  "description": "Food Feed",
+  "slug": "bfly",
+  "sdkVersion": "12.0.0",
+  "version": "0.0.1",
+  "orientation": "portrait",
+  "iconUrl": "",
+  "loading": {
+    "backgroundColor": "#ffffff",
+    "hideExponentText": true
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf"]
+  },
+  "android": {
+     "package": "org.foodfeed.exp",
+  }
+}
